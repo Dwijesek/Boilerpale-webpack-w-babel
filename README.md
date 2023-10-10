@@ -1,2 +1,2 @@
-# Boilerpale-webpack-w-babel
+# Boilerplae-webpack-w-babel
 Boilerplate react setup w/ webpack and babel
